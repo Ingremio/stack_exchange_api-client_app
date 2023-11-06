@@ -1,2 +1,2 @@
-# stack_exchange_api-client_app
+# Stack Exchange Api Client App
 Stack Exchange API Client App
