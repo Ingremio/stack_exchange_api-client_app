@@ -27,21 +27,21 @@ Happy **StackExchange API** exploration!
 
 ### Fast Preview
 
-![loginPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/5ba25658-00c8-45b0-ae7b-dbf181c5ea7b)
+![loginPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/1d670500-3321-474e-b2ad-a54650541347)
 *Login Page*
 
-![stackExchangeAuth](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/2e271b2e-3e08-4f55-b74d-4bdfa0723197)
+![stackExchangeAuth](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/99adfb8a-3f57-44a7-aea8-ace7f8b195f1)
 *StackOverflow Login Page*
 
-![homePage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/6d87610a-9648-44ec-a46c-49bd3cdce2dd)
+![homePage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/9b9d1ee7-f55c-4fb0-99e2-69b59f8c77c8)
 *Home Page*
 
-![tagsPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/659cb180-c807-4e10-9b91-4d129b4fa898)
+![tagsPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/f0406ce2-e629-4edf-94d8-800d2643cad1)
 *Tags Page*
 
 > **ATTENTION** \
 > *After downloading the source code, be sure to enter your settings in the appsettings.json file in the web service part of the solution.* otherwise...
 
-![exceptionPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/98d20f5f-1f1a-4929-bcf6-81293be0a1d1)
+![exceptionPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/1cb441ba-124e-440b-b0e1-787d8574ee76)
 *Error Page*
 :smirk:
