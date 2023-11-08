@@ -25,6 +25,19 @@ For the application to work properly, you must enter the following settings:
 
 Happy **StackExchange API** exploration!
 
+### First Checkout
+
+1. **Pull** Source code
+2. **Open** Command propmpt
+3. **Go to** project.client Path
+4. **Type** npm install
+5. **Open** Visual Studio
+6. **Go to** solution Properties
+7. **Select** Multiple startup projects
+8. **Set** Start Action on project.client and project.server
+9. **Complete** appsettings.json file
+10. **Build and run** Application
+
 ### Fast Preview
 
 ![loginPage](https://github.com/Ingremio/stack_exchange_api-client_app/assets/150059608/1d670500-3321-474e-b2ad-a54650541347)
